@@ -17,7 +17,7 @@ This project is a static HTML and CSS representation of an online meal ordering 
 
 ## Live Demo
 
-Check out the live demo [here](https://Ashahad07.github.io/MyOnlineMeal/.
+Check out the live demo [here](https://Ashahad07.github.io/MyOnlineMeal/).
 
 ## Installation
 
